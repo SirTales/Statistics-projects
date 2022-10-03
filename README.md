@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-This is a repository for all my work with statistical analysis on datasets (from simple to complex models).
-=======
+
 This is a repository for all my work with statistical analysis on datasets (from simple to complex models).
 
-You can navigate between projects in branches.
->>>>>>> a4d9b89077dd7ca892e29a2e5021f9e919bc9aea
+In project 2, I perform a box plot and show the cumulative distribution for the Iris dataset
+
+In project 3, the Student's T test is done in US's 60 crime rate data, to present the factors that have influence in the data
